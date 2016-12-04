@@ -5,4 +5,4 @@ I'm using OpenCobolIDE, it's a very good IDE, but I always need more, so I just 
 For the editor, I'm using scintilla
 
 ## First try
-![Screenshot](https://github.com/flaith-nycd/bcob_ide/blob/master/screenshot.png)
+![Screenshot](https://github.com/flaith-nycd/bcob-ide/blob/master/BCoIDE.png)
