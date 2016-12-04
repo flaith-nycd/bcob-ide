@@ -5,9 +5,8 @@ I'm using OpenCobolIDE, it's a very good IDE, but I always need more, so I've ju
 
 For the editor, I'm using scintilla
 
-And, yes, there is a ruler :D
-
 For the font, I'm using "IBM 3270", you can find it here: https://github.com/rbanffy/3270font
 
 ## Last try after 2 days
+Yes, there is a ruler :D
 ![Screenshot](https://github.com/flaith-nycd/bcob-ide/blob/master/Screenshot.png)
