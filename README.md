@@ -11,4 +11,4 @@ For the font, I'm using "IBM 3270", you can find it here: https://github.com/rba
 
 
 ## First try
-![Screenshot](https://github.com/flaith-nycd/bcob-ide/blob/master/BCoB-IDE.png)
+![Screenshot](https://github.com/flaith-nycd/bcob-ide/blob/master/Screenshot.png)
