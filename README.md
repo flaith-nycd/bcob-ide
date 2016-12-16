@@ -15,3 +15,6 @@ Yes, there is a ruler :D
 ## Result after 3 days
 Just started to highlight
 ![Screenshot](https://github.com/flaith-nycd/bcob-ide/blob/master/Screenshot_2.png)
+## Last results
+The ruler change while zooming :D
+![Screenshot](https://github.com/flaith-nycd/bcob-ide/blob/master/Screenshot_3.png)
