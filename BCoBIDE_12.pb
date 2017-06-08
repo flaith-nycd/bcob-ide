@@ -27,7 +27,7 @@ IncludeFile "scilexer_constant.pbi"
 
 #DLLNAME = "SciLexer.dll"
 #DIR_SEP = "/"
-#DIR_DLL = "DLL"
+#DIR_DLL = "DLL" 
 
 CompilerIf #PB_Compiler_Processor = #PB_Processor_x86
     #PROCESSOR_TYPE = "x86"
