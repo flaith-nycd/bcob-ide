@@ -1,6 +1,3 @@
-; KEYWORDS are in the file "keywords.py"
-; in the dir: C:\Users\flaith\Projects\cobol\EDITOR\OpenCobolIDE-4.7.5\open_cobol_ide\extlibs\pyqode\cobol\api
-
 ;***************
 ; from ts-soft: http://purebasic.fr/english/viewtopic.php?p=498625#p498625
 Procedure SCI_GetTextFormat(ID)
@@ -160,7 +157,7 @@ Procedure syntaxHighLighting(scintillaId.i, type.i = #True)
         ScintillaSendMessage(scintillaId, #nSCI_COLOURISE, 0, -1)                   ;colourize from 0 to end-of-doc
         
         KeyWords = "identification data procedure division program-id working-storage section stop-run if end-if"
-        ;         ;Caractére séparant chaque mot de la liste des mots clés
+        ;         ;CaractÃ©re sÃ©parant chaque mot de la liste des mots clÃ©s
         ;         Define.s KeyWordSep = " "
         ;         ScintillaSendMessage(Gadget, #SCI_AUTOCSETSEPARATOR, Asc(KeyWordSep))
         
@@ -733,15 +730,3 @@ EndProcedure
 
 ;-**** CALLING PROGRAM
 Main()
-
-; IDE Options = PureBasic 5.60 (Windows - x86)
-; CursorPosition = 50
-; FirstLine = 18
-; Folding = --
-; EnableXP
-; UseIcon = nico.ico
-; Executable = BCoB-IDE_12_x86.exe
-; DisableDebugger
-; CompileSourceDirectory
-; EnableCompileCount = 16
-; EnableBuildCount = 8
